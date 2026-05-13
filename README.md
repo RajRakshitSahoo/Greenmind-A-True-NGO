@@ -10,7 +10,7 @@ GreenMind is a fully responsive, single-page website for a climate education NGO
 
 Click the link below to open the website directly in your browser:
 
-👉 **[Open GreenMind Website](greenmind-website-updated__2_.html)**
+👉 **[Open GreenMind Website]([greenmind-website-updated__2_.html](https://rajrakshitsahoo.github.io/Greenmind-A-True-NGO/greenmind-website-updated__2_.html))**
 
 > **How to use this link:**
 > - If you're viewing this README in **VS Code**, right-click the file in Explorer → *Open with Live Server*, or simply open the `.html` file directly.
