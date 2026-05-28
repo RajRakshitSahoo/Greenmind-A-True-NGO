@@ -1,7 +1,7 @@
 # 🌿 GreenMind — Climate Education for All
 
 > *"Education is the Most Renewable Resource"*
-
+ckxkgxkgnflgek=-)&/-</'[6'[
 GreenMind is a fully responsive, single-page website for a climate education NGO. It brings together storytelling, interactivity, and impact data to inspire action on climate change — spanning schools, universities, corporations, and governments.
 
 ---
